@@ -22,3 +22,24 @@ alefh.sousa@caelum.com.br
 - https://www.amazon.com.br/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/ref=pd_all_pref_7?_encoding=UTF8&pd_rd_i=0134434420&pd_rd_r=39b2a363-6855-467d-87eb-84c74de5d7c1&pd_rd_w=iJXfH&pd_rd_wg=f8kX6&pf_rd_p=069265cb-07df-48c0-a019-097708695157&pf_rd_r=3QKHC3HJCPFDD6Z2BCFF&psc=1&refRID=3QKHC3HJCPFDD6Z2BCFF
 - https://www.infoq.com/minibooks/domain-driven-design-quickly/
 - https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
+
+
+- # Aula 2 - Referências
+
+- https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
+- https://postgis.net/
+- https://microservices.io/patterns/decomposition/decompose-by-business-capability.html
+- https://www.amazon.com.br/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN/ref=asc_df_B081TKSSNN/?tag=googleshopp00-20&linkCode=df0&-hvadid=379726607263&hvpos=&hvnetw=g&hvrand=8575077158726347917&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-848237556440&psc=1
+- https://www.amazon.com.br/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4/ref=asc_df_B00T3N7XB4/?tag=googleshopp00-20&linkCode=df0&-hvadid=379725882390&hvpos=&hvnetw=g&hvrand=8575077158726347917&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-406130817105&psc=1
+- https://martinfowler.com/bliki/StranglerFigApplication.html
+- https://www.youtube.com/watch?v=9I9GdSQ1bbM
+- https://www.youtube.com/watch?v=gDlE4q3mozY
+- https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+- https://www.oreilly.com/online-learning/individuals.html
+- https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=2&country=Brazil&form_type=Professional&promo=LEVEL
+- https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321/ref=asc_df_1449373321/?tag=googleshopp00-20&linkCode=df0&hvadid=379726163686&hvpos=&hvnetw=g&hvrand=7397733194087386597&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-432535594773&psc=1
+- https://www.amazon.com.br/Database-Internals-Alex-Petrov/dp/1492040347
+- https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+- https://microservices.io/patterns/data/shared-database.html
+- https://microservices.io/patterns/data/database-per-service.html#:~:text=Private%2Dtables%2Dper%2Dservice,has%20it's%20own%20database%20server.
+- https://flywaydb.org/
