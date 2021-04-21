@@ -27,7 +27,16 @@ services:
       - "27018:27017"
     volumes:
       - mongo.eats.distancia:/data/db
-  
+  mongo-express:
+    image: mongo-express
+    ports:
+      - 8091:8081
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongo.distancia
+      ME_CONFIG_MONGODB_PORT: 27017
+    depends_on:
+      - mongo.distancia
+    restart: on-failure
 volumes:
   mysql.eats.monolito:
   mysql.eats.pagamento:
