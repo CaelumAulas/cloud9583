@@ -43,3 +43,20 @@ alefh.sousa@caelum.com.br
 - https://microservices.io/patterns/data/shared-database.html
 - https://microservices.io/patterns/data/database-per-service.html#:~:text=Private%2Dtables%2Dper%2Dservice,has%20it's%20own%20database%20server.
 - https://flywaydb.org/
+
+- # Aula 3 - Referências
+
+- https://hipsters.tech/estrategias-de-migracao-de-dados-no-elo7-hipsters-on-the-road-07/
+- https://docs.nats.io/
+- https://debezium.io/
+- https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data
+- https://www.confluent.io/blog/ksql-streaming-sql-for-apache-kafka/
+- https://microservices.io/book
+- https://eventuate.io/abouteventuatetram.html
+- https://www.youtube.com/watch?v=eRz3xjM08l0
+- https://httpstatuses.com
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+- https://graphql.org/
+- https://geemus.gitbooks.io/http-api-design/content/en/index.html
+- https://github.com/OpenFeign/feign
+- https://github.com/donnemartin/system-design-primer
