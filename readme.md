@@ -60,3 +60,25 @@ alefh.sousa@caelum.com.br
 - https://geemus.gitbooks.io/http-api-design/content/en/index.html
 - https://github.com/OpenFeign/feign
 - https://github.com/donnemartin/system-design-primer
+
+- # Aula 4 - Referências
+
+- https://hpbn.co/
+- https://www.amazon.com.br/Release-Design-Deploy-Production-Ready-Software/dp/0978739213
+- https://grpc.io/
+- https://github.com/OpenFeign/feign
+- https://httpstatuses.com/
+- https://devopedia.org/richardson-maturity-model
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+- https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=2&country=Brazil&form_type=Professional&promo=LEVEL
+- https://grpc.io/docs/languages/java/quickstart/
+- https://developers.google.com/protocol-buffers
+- https://twitter.github.io/finagle/
+- https://www.keycloak.org/
+- https://landscape.cncf.io/
+- https://github.com/traefik/traefik
+- https://containo.us/traefik/
+- https://netflixtechblog.com/optimizing-the-netflix-api-5c9ac715cf19
+- https://netflixtechblog.com/engineering-trade-offs-and-the-netflix-api-re-architecture-64f122b277dd
+- https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+- https://www.nginx.com/blog/api-real-time-test-latency-responsiveness-nginx-rtapi-tool/
