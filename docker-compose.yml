@@ -37,7 +37,19 @@ services:
     depends_on:
       - mongo.distancia
     restart: on-failure
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    ports:
+      - "5672:5672"
+      - "8055:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: eats
+      RABBITMQ_DEFAULT_PASS: caelum123
+    volumes:
+      - rabbitmq.eats:/var/lib/rabbitmq
+
 volumes:
   mysql.eats.monolito:
   mysql.eats.pagamento:
   mongo.eats.distancia:
+  rabbitmq.eats:
