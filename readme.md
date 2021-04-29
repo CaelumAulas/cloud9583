@@ -139,3 +139,38 @@ alefh.sousa@caelum.com.br
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Retry-After
 - https://microservices.io/patterns/service-registry.html
 - https://microservices.io/patterns/self-registration.html
+
+
+# Aula 7 Referências:
+
+- https://openliberty.io/guides/bulkhead.html#background-concepts
+- https://en.wikipedia.org/wiki/Jitter
+- https://netflixtechblog.com/hystrix-dashboard-turbine-stream-aggregator-60985a2e51df
+- https://github.com/resilience4j/resilience4j
+- https://github.com/Netflix/Hystrix
+- https://principlesofchaos.org/
+- https://microservices.io/patterns/data/domain-event.html
+- https://microservices.io/patterns/reliability/circuit-breaker.html 
+- https://pragprog.com/book/mnee2/release-it-second-edition
+- https://www.nngroup.com/articles/response-times-3-important-limits/
+- http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf
+- https://microservices.io/patterns/client-side-discovery.html
+- https://microservices.io/patterns/server-side-discovery.html
+- https://microservices.io/patterns/service-registry.html
+- https://microservices.io/patterns/self-registration.html
+- https://microservices.io/patterns/3rd-party-registration.html
+- https://github.com/Netflix/Prana
+- https://mesosphere.github.io/marathon/
+- https://www.consul.io/
+- https://www.hashicorp.com/
+- https://spring.io/projects/spring-cloud-consul
+- https://spring.io/projects/spring-cloud-netflix
+- https://github.com/Netflix/eureka/wiki
+- https://www.ibm.com/support/knowledgecenter/pt-br/SSWLGF_8.5.0/com.ibm.srdoc/cwsr_overview_features17.html
+- http://tryrabbitmq.com/
+- https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/
+- https://resilience4j.readme.io/docs/getting-started-3#annotations
+- https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+- https://miro.medium.com/max/3590/0*gAtm7Jtxqf4TudVZ.png
+- https://acloudguru.com/solutions/individuals-cro-129
+- https://www.udemy.com/course/certified-kubernetes-application-developer/
