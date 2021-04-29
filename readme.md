@@ -124,3 +124,18 @@ alefh.sousa@caelum.com.br
 - https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 - https://www.consul.io/
 - https://chromium.googlesource.com/external/github.com/grpc/grpc/+/HEAD/CONCEPTS.md
+
+
+# Aula 6 - referências
+
+- https://microservices.io/patterns/server-side-discovery.html
+- https://kubernetes.io/docs/concepts/overview/components/
+- https://www.nngroup.com/
+- https://www.nngroup.com/articles/response-times-3-important-limits/
+- https://12factor.net/disposability
+- https://www.youtube.com/watch?v=RzlluokGi1w
+- https://landscape.cncf.io/card-mode?category=service-mesh&grouping=category
+- https://www.youtube.com/watch?v=TMmN9cR_IsM
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Retry-After
+- https://microservices.io/patterns/service-registry.html
+- https://microservices.io/patterns/self-registration.html
